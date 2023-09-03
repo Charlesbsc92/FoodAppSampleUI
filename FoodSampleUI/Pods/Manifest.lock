@@ -1,0 +1,24 @@
+PODS:
+  - IQKeyboardManagerSwift (6.5.11)
+  - Reusable (4.1.2):
+    - Reusable/Storyboard (= 4.1.2)
+    - Reusable/View (= 4.1.2)
+  - Reusable/Storyboard (4.1.2)
+  - Reusable/View (4.1.2)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - Reusable
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - Reusable
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: c7955c0bdbf7b2eb29bb7daaa44e3d90f55a9a85
+  Reusable: 6bae6a5e8aa793c9c441db0213c863a64bce9136
+
+PODFILE CHECKSUM: 383f3bf9a90bf2c5fa98ff4bc1a0395fafbc98b8
+
+COCOAPODS: 1.11.3
